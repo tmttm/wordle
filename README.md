@@ -1,0 +1,2 @@
+# wordle
+PYTHON WORDLE PROJECT
